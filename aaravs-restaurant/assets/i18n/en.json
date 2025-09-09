@@ -1,0 +1,37 @@
+{
+  "APP_TITLE": "Aarav's Kitchen",
+  "APP_SUBTITLE": "Authentic Indian Cuisine",
+  "LANGUAGE": "Language",
+  "MENU": "Menu",
+  "CATEGORIES": {
+    "Starters": "Starters",
+    "Main Course": "Main Course", 
+    "Desserts": "Desserts",
+    "Beverages": "Beverages"
+  },
+  "CURRENCY": "₹",
+  "VEGETARIAN": "Vegetarian",
+  "NON_VEGETARIAN": "Non-Vegetarian",
+  "SPICE_LEVEL": "Spice Level",
+  "SPICE_LEVELS": {
+    "none": "No Spice",
+    "mild": "Mild",
+    "medium": "Medium",
+    "hot": "Hot"
+  },
+  "WELCOME_MESSAGE": "Welcome to Aarav's Kitchen - Where tradition meets taste!",
+  "FOOTER_TEXT": "Made with ❤️ by Aarav's Kitchen",
+  "LOADING": "Loading...",
+  "ERROR": "Something went wrong. Please try again.",
+  "FILTER": {
+    "ALL": "All Items",
+    "VEGETARIAN_ONLY": "Vegetarian Only",
+    "SEARCH_PLACEHOLDER": "Search menu items..."
+  },
+  "LANGUAGES": {
+    "en": "English",
+    "fr": "French", 
+    "hi": "Hindi"
+  },
+  "RETRY": "Retry"
+}

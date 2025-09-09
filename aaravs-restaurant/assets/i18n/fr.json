@@ -1,0 +1,37 @@
+{
+  "APP_TITLE": "Cuisine d'Aarav",
+  "APP_SUBTITLE": "Cuisine Indienne Authentique",
+  "LANGUAGE": "Langue",
+  "MENU": "Menu",
+  "CATEGORIES": {
+    "Starters": "Entrées",
+    "Main Course": "Plats Principaux",
+    "Desserts": "Desserts",
+    "Beverages": "Boissons"
+  },
+  "CURRENCY": "₹",
+  "VEGETARIAN": "Végétarien",
+  "NON_VEGETARIAN": "Non-Végétarien",
+  "SPICE_LEVEL": "Niveau d'Épices",
+  "SPICE_LEVELS": {
+    "none": "Sans Épices",
+    "mild": "Doux",
+    "medium": "Moyen",
+    "hot": "Épicé"
+  },
+  "WELCOME_MESSAGE": "Bienvenue à la Cuisine d'Aarav - Où la tradition rencontre le goût!",
+  "FOOTER_TEXT": "Fait avec ❤️ par la Cuisine d'Aarav",
+  "LOADING": "Chargement...",
+  "ERROR": "Quelque chose s'est mal passé. Veuillez réessayer.",
+  "FILTER": {
+    "ALL": "Tous les Articles",
+    "VEGETARIAN_ONLY": "Végétarien Seulement",
+    "SEARCH_PLACEHOLDER": "Rechercher des articles du menu..."
+  },
+  "LANGUAGES": {
+    "en": "Anglais",
+    "fr": "Français",
+    "hi": "Hindi"
+  },
+  "RETRY": "Réessayer"
+}

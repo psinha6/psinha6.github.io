@@ -1,0 +1,170 @@
+{
+  "Starters": [
+    {
+      "id": "starter-1",
+      "name": "Paneer Tikka",
+      "description": "Spiced paneer cubes grilled to perfection with aromatic herbs and spices",
+      "price": 180,
+      "image": "assets/images/paneer_tikka.jpg",
+      "category": "Starters",
+      "vegetarian": true,
+      "spiceLevel": "medium"
+    },
+    {
+      "id": "starter-2", 
+      "name": "Veg Spring Rolls",
+      "description": "Crispy golden rolls stuffed with fresh mixed vegetables and served with sweet chili sauce",
+      "price": 150,
+      "image": "assets/images/spring_rolls.jpg",
+      "category": "Starters",
+      "vegetarian": true,
+      "spiceLevel": "mild"
+    },
+    {
+      "id": "starter-3",
+      "name": "Chicken Tikka",
+      "description": "Tender chicken pieces marinated in yogurt and spices, grilled in tandoor",
+      "price": 220,
+      "image": "assets/images/chicken_tikka.jpg",
+      "category": "Starters",
+      "vegetarian": false,
+      "spiceLevel": "medium"
+    },
+    {
+      "id": "starter-4",
+      "name": "Samosa Chaat",
+      "description": "Crispy samosas topped with tangy chutneys, yogurt, and fresh herbs",
+      "price": 120,
+      "image": "assets/images/samosa_chaat.jpg",
+      "category": "Starters",
+      "vegetarian": true,
+      "spiceLevel": "medium"
+    }
+  ],
+  "Main Course": [
+    {
+      "id": "main-1",
+      "name": "Butter Chicken",
+      "description": "Creamy tomato-based chicken curry with rich aromatic spices and fresh cream",
+      "price": 320,
+      "image": "assets/images/butter_chicken.jpg",
+      "category": "Main Course",
+      "vegetarian": false,
+      "spiceLevel": "mild"
+    },
+    {
+      "id": "main-2",
+      "name": "Dal Makhani",
+      "description": "Slow-cooked black lentils with butter, cream, and traditional spices",
+      "price": 250,
+      "image": "assets/images/dal_makhani.jpg",
+      "category": "Main Course",
+      "vegetarian": true,
+      "spiceLevel": "mild"
+    },
+    {
+      "id": "main-3",
+      "name": "Palak Paneer",
+      "description": "Fresh cottage cheese cubes in creamy spinach gravy with aromatic spices",
+      "price": 280,
+      "image": "assets/images/palak_paneer.jpg",
+      "category": "Main Course",
+      "vegetarian": true,
+      "spiceLevel": "mild"
+    },
+    {
+      "id": "main-4",
+      "name": "Chicken Biryani",
+      "description": "Fragrant basmati rice layered with spiced chicken and slow-cooked to perfection",
+      "price": 380,
+      "image": "assets/images/chicken_biryani.jpg",
+      "category": "Main Course",
+      "vegetarian": false,
+      "spiceLevel": "medium"
+    },
+    {
+      "id": "main-5",
+      "name": "Rajma Masala",
+      "description": "Red kidney beans cooked in rich tomato and onion gravy with aromatic spices",
+      "price": 240,
+      "image": "assets/images/rajma_masala.jpg",
+      "category": "Main Course",
+      "vegetarian": true,
+      "spiceLevel": "medium"
+    }
+  ],
+  "Desserts": [
+    {
+      "id": "dessert-1",
+      "name": "Gulab Jamun",
+      "description": "Sweet milk dumplings soaked in fragrant rose and cardamom syrup",
+      "price": 100,
+      "image": "assets/images/gulab_jamun.jpg",
+      "category": "Desserts",
+      "vegetarian": true,
+      "spiceLevel": "none"
+    },
+    {
+      "id": "dessert-2",
+      "name": "Ras Malai",
+      "description": "Soft cottage cheese dumplings in sweetened milk flavored with cardamom and pistachios",
+      "price": 120,
+      "image": "assets/images/ras_malai.jpg",
+      "category": "Desserts",
+      "vegetarian": true,
+      "spiceLevel": "none"
+    },
+    {
+      "id": "dessert-3",
+      "name": "Kulfi",
+      "description": "Traditional Indian ice cream made with milk, cardamom, and pistachios",
+      "price": 80,
+      "image": "assets/images/kulfi.jpg",
+      "category": "Desserts",
+      "vegetarian": true,
+      "spiceLevel": "none"
+    }
+  ],
+  "Beverages": [
+    {
+      "id": "beverage-1",
+      "name": "Masala Chai",
+      "description": "Traditional spiced Indian tea brewed with aromatic spices and fresh milk",
+      "price": 40,
+      "image": "assets/images/masala_chai.jpg",
+      "category": "Beverages",
+      "vegetarian": true,
+      "spiceLevel": "mild"
+    },
+    {
+      "id": "beverage-2",
+      "name": "Mango Lassi",
+      "description": "Refreshing yogurt-based drink blended with sweet mango pulp and cardamom",
+      "price": 80,
+      "image": "assets/images/mango_lassi.jpg",
+      "category": "Beverages",
+      "vegetarian": true,
+      "spiceLevel": "none"
+    },
+    {
+      "id": "beverage-3",
+      "name": "Fresh Lime Soda",
+      "description": "Refreshing lime juice with soda water, mint, and a hint of black salt",
+      "price": 60,
+      "image": "assets/images/lime_soda.jpg",
+      "category": "Beverages",
+      "vegetarian": true,
+      "spiceLevel": "none"
+    },
+    {
+      "id": "beverage-4",
+      "name": "Filter Coffee",
+      "description": "Traditional South Indian filter coffee served hot with steamed milk",
+      "price": 50,
+      "image": "assets/images/filter_coffee.jpg",
+      "category": "Beverages",
+      "vegetarian": true,
+      "spiceLevel": "none"
+    }
+  ]
+}
